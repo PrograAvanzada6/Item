@@ -1,0 +1,8 @@
+.metadata
+**/.settings
+**/.gradle
+**/bin
+**/build
+
+dominio/src/test/java/worldwar/prueba.java
+.recommenders/
